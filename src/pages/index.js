@@ -17,7 +17,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Motivational Bio      </title>
+        Motivational Bio website     </title>
     </Head>
     <Box
       component="main"
